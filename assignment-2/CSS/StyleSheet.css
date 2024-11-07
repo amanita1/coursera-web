@@ -192,10 +192,6 @@ h1 {
 }
 
 
-/********** Helpers: the 'float' property specifies how an element should float
- *  -- the 'clear' prpoperty specifies what elements can float beside the cleared element
- *  and on which side **********/
-
 .clear {
   clear: both;
 }
